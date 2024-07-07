@@ -1,10 +1,10 @@
 //MARK: Line 1
-
-
-
-
-
-
+{
+    "editor.minimap.enabled": true,
+    "editor.minimap.size": "fit",
+    "editor.minimap.side": "left",
+    "editor.minimap.showSlider": "always",
+}
 
 
 
