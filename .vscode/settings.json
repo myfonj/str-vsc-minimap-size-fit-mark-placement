@@ -495,12 +495,13 @@
 
 
 
+// every hundreth line is "marked":
 
+//MARK: Line 500 ←
 
-//MARK: Line 500
-
-
-
+// Occurences of marks revealed by
+// selection highlight (yellow).
+// Light-green Slider is current viewport.
 
 
 
