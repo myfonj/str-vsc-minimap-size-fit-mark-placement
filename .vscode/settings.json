@@ -4,18 +4,18 @@
     "editor.minimap.size": "fit",
     "editor.minimap.side": "left",
     "editor.minimap.showSlider": "always",
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.colorCustomizations": {
+        "[Default Dark+]": {
+            "minimap.background": "#000",
+            "minimapSlider.background": "#6f66",
+            "minimapSlider.activeBackground": "#6f69",
+            "minimapSlider.hoverBackground": "#6f6c",
+            "minimap.selectionOccurrenceHighlight": "#fF09",
+            "minimap.selectionHighlight": "#cFcC",
+        },
+    },
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 
